@@ -19,7 +19,7 @@ $ python train.py --model GCN_general_L_W --task age_predict
 ## References
 If you find this repo helpful, please consider giving a star and citing the following paper:
 
-Li Y, Wei Q, Adeli E, Pohl K, Zhao Q: Joint Graph Convolution for Analyzing Brain Structural and Functional Connectome, Medical Image Computing and Computer Assisted Intervention, Springer-Verlag, Lecture Notes in Computer Science, Accepted
+*Li Y, Wei Q, Adeli E, Pohl K, Zhao Q: Joint Graph Convolution for Analyzing Brain Structural and Functional Connectome, Medical Image Computing and Computer Assisted Intervention, Springer-Verlag, Lecture Notes in Computer Science, Accepted*
 
 ## Contacts
 If any questions, welcome email: lyt1314@stanford.edu
