@@ -30,7 +30,6 @@ class GraphConvolution(Module):
 
     def forward(self, input, adj):
         support = torch.matmul(input, self.weight)
-        #pdb.set_trace()
         output = torch.matmul(adj, support)
         if self.bias is not None:
             return output + self.bias
